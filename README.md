@@ -1,2 +1,2 @@
 # web-dev-internship
-nternship UI development &amp; styling tasks
+Internship UI development &amp; styling tasks
