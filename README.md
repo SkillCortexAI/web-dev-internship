@@ -13,4 +13,4 @@ This repository includes UI alignment improvements, styling updates, and webpage
 - Added responsive container with shadow effects
 - Improved spacing and box structure of the webpage
 
-**Status:** Successfully Completed ✔
+**Status:** Successfully Completed 
